@@ -9,7 +9,7 @@
 
 ## Скриншот
 
-> ![screenshot](wallpaper/screenshot.png)
+> ![screenshot](wallpaper/nord-street-wlp.png)
 
 ---
 
