@@ -9,7 +9,7 @@
 
 ## Скриншот
 
-> *добавь скриншот своего рабочего стола*
+> ![screenshot](wallpaper/screenshot.png)
 
 ---
 
